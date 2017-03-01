@@ -1,0 +1,21 @@
+{
+  "name": "nosleep",
+  "version": "0.5.0",
+  "description": "Prevent display sleep on all Android and iOS browsers (forked from richtr/NoSleep.js)",
+  "homepage": "https://github.com/bdegreve/NoSleep.js",
+  "author": "Rich Tibbett (https://github.com/richtr/)",
+  "main": "NoSleep.js",
+  "license": "MIT",
+  "repository": {
+    "type" : "git", 
+    "url" : "https://github.com/bdegreve/NoSleep.js.git"
+  },
+  "keywords": [
+    "nosleep",
+    "wake lock",
+    "wakelock",
+    "screen",
+    "display",
+    "sleep"
+  ]
+}
