@@ -1,4 +1,6 @@
-# NoSleep.js
+# NoSleep.js CommonJS
+
+A forked of [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) as CommonJS module.
 
 Prevent display sleep and enable wake lock in all Android and iOS web browsers.
 
@@ -6,11 +8,11 @@ Check out the [live demo](https://richtr.github.io/NoSleep.js/example.html) in a
 
 ## Installation
 
-This library is available on [Bower](http://bower.io/) as **nosleep**.
+This library is available as NPM package "nosleep" from [github](https://github.com/bdegreve/NoSleep.js)
 
-    $> bower install nosleep
+    $> npm install bdegreve/NoSleep.js
 
-Alternatively, you can manually add [NoSleep.js](https://github.com/richtr/NoSleep.js/blob/master/NoSleep.js) to your project (or the [minified version](https://github.com/richtr/NoSleep.js/blob/master/NoSleep.min.js)).
+Alternatively, you can manually add [NoSleep.js](https://github.com/bdegreve/NoSleep.js/blob/master/NoSleep.js) to your project.
 
 ## Usage
 
